@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "dede67ccdd201e90",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb11a3fe37cd9507",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6083656212627b7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Paradigmas/Unidad 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9bfff869dbd1f274",
+    "type": "split",
+    "children": [
+      {
+        "id": "61b2cd238c5096d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "890abf6d7474d942",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9d17da8538d774e6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#excalidraw",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9df592452a1b7846",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "aa732240f8fe415b",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc7020d8a2c578c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eee09ae7e25131fa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Paradigmas/Unidad 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4a80c56c24a5f8e1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Paradigmas/Unidad 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ea5d74dd8310e586",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "67652242ac3c9f9d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Paradigmas/Unidad 1.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "6083656212627b7d",
+  "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-08-23 14.38.23.excalidraw.md",
+    "Paradigmas/Unidad 1.md",
+    "Imágenes/Pasted image 20240823144646.png",
+    "Imágenes",
+    "Imágenes/Pasted image 20240823144118.png",
+    "Excalidraw",
+    "Taller de Lenguajes II",
+    "Paradigmas",
+    "Sin título.canvas",
+    "Sin título 1.canvas"
+  ]
+}
