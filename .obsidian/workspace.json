@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paradigmas/Lección 1.md",
+                "file": "Paradigmas/Lección 4.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Paradigmas/Lección 1.md",
+                "file": "Paradigmas/Lección 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Paradigmas/Lección 1.md",
+                "file": "Paradigmas/Lección 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +125,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paradigmas/Lección 1.md"
+                "file": "Paradigmas/Lección 4.md"
               }
             }
+          },
+          {
+            "id": "ffaa6cf1043801e0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -150,27 +159,28 @@
   },
   "active": "6083656212627b7d",
   "lastOpenFiles": [
+    "Pasted image 20240913010913.png",
+    "Imágenes/Pasted image 20240913005708.png",
+    "Paradigmas/Lección 4.md",
+    "Imágenes/Pasted image 20240913010624.png",
+    "Imágenes/Pasted image 20240913010217.png",
+    "Imágenes/Pasted image 20240913010154.png",
+    "Imágenes/Pasted image 20240913010143.png",
+    "Imágenes/Pasted image 20240913003542.png",
+    "Imágenes/Pasted image 20240913004950.png",
+    "Paradigmas/Lección 1.md",
     "Taller de Lenguajes II/probando.c",
     "Taller de Lenguajes II/S.O.L.I.D..md",
     "Taller de Lenguajes II/Probando.cs",
     "Taller de Lenguajes II/POO (Programación Orientada a Objetos.md",
     "Paradigmas/TP1/Repuestas.md",
     "Paradigmas/TP1",
-    "Paradigmas/Lección 4.md",
     "Paradigmas/Lección 3.md",
     "Paradigmas/Lección 2.md",
-    "Paradigmas/Lección 1.md",
     "Paradigmas",
     "Imágenes/Pasted image 20240912142929.png",
     "Imágenes/Pasted image 20240912142255.png",
     "Imágenes/Pasted image 20240912142202.png",
-    "Imágenes/Pasted image 20240912141343.png",
-    "Imágenes/Pasted image 20240912140257.png",
-    "Imágenes/Pasted image 20240912140027.png",
-    "Imágenes/Pasted image 20240912135850.png",
-    "Imágenes/Pasted image 20240912135621.png",
-    "Imágenes/Pasted image 20240912135356.png",
-    "Imágenes/Pasted image 20240912134546.png",
     "Paradigmas/Unidad 1.md",
     "Excalidraw/Drawing 2024-08-23 14.38.23.excalidraw.md",
     "Imágenes",

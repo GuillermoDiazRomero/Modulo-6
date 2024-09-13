@@ -27,7 +27,7 @@ Lenguajes que admiten Orientación a Objetos:
 - Object Pascal
 - Sa
 
-### !Importante!
+**!Importante!**
 POO es un Paradigma Procedimental con Efecto Lateral
 
 ---
@@ -73,3 +73,72 @@ Objeto: Elemento autónomo de información, creado en tiempo de ejecución que p
 
 Ejemplo de estado de un Objeto:
 ![[Pasted image 20240912142929.png]]
+
+### Identidad de un Objeto
+
+![[Pasted image 20240913003542.png]]
+
+- La identidad del objeto se correspondía con su nombre con su nombre siendo imposible separar ambos conceptos.
+- Al incorporarse a los lenguajes de programación, la asignación dinámica de memoria desaparece esta correspondencia.
+- Referencia: permite que un mismo objeto tenga varios nombres ("alias"), desvirtúa la relación nombre/identidad del objeto.
+- Disociación entre el nombre del objeto y su identidad, se produce con el uso de subprogramas
+
+![[Pasted image 20240913004950.png]]
+
+
+### Métodos
+Especifican la forma en que controlan los datos de un objeto y representan el comportamiento de ese tipo de objetos (son lo que conocemos como funciones)
+![[Pasted image 20240913005708.png]]
+
+**Comportamiento de un objeto**
+Tipos de operaciones:
+- Modificar: operación que altera el estado del objeto
+- Seleccionar: operación que accede al estado del objeto, pero no lo altera
+- Iterar: operación que permite que todas las partes de un objeto sean accedidas en un orden bien definido
+- Constructor: operación que crea un objeto e inicializa su estado
+- Destructor: operación que libera el estado de un objeto y (opcionalmente) destruye el propio objeto.
+
+### Mensajes
+Los objetos se comunican mediante solicitudes. Una solicitud es un mensaje que especifica la realización de una operación con uno o más objetos como parámetros que, de manera opcional, devuelve un resultado.
+Los mensajes se usan para especificar una comunicación entre objetos
+![[Pasted image 20240913010217.png]]
+Ejemplo:
+![[Pasted image 20240913010143.png]]
+
+Composición:
+![[Pasted image 20240913010154.png]]
+
+### Encapsulado
+El empaquetamiento del conjunto de datos y métodos recibe el nombre de encapsulado.
+El objeto esconde/encapsula su estructura de datos a los demás objetos y la única forma de acceder a ellos es mediante operaciones o métodos propios cuya implementación está oculta (*privada*) para el usuario.
+Implica el ocultamiento de los detalles de implementación de un objeto respecto de su usuario.
+![[Pasted image 20240913010624.png]]
+
+**Ventajas:**
+- Evita la interferencia con los aspectos internos
+- Oculta la complejidad de sus componentes
+- Evita corrupción de los datos
+- Protege los datos de un uso arbitrario
+
+### Herencia
+Un tipo de objetos de alto nivel puede especializarse en sub-tipos ó tipos de objetos de niveles más bajos.
+![[Pasted image 20240913010913.png]]
+
+
+## Beneficios de la tecnología OO
+- Reutilización: para maximizar la reutilización se construyen las clases de modo que se puedan adaptar.
+- Estabilidad: las clases diseñadas para la reutilización repetida se vuelven estables.
+- El diseñador piensa en términos del comportamiento de objetos y no en detalles de bajo nivel: el encapsulado oculta los detalles de implementación de las clases y hace que las clases complejas sean fáciles de utilizar
+- Creciente biblioteca de tipos de objetos
+- Se construyen clases cada vez más complejas: El software se crea a partir de clases ya existentes y probadas, Esto permite construir componentes complejos de software.
+- Diseño de mayor calidad: ya que se integran a partir de componentes ya probados que han sido verificados y pulidos varias veces.
+- Diseño más rápido
+- Confiabilidad: el software construido a partir de clases estables ya probadas tiene menos fallas que el software elaborado a partir de cero.
+- Integridad: las estructuras de datos sólo pueden ser utilizadas por métodos específicos.
+- Programación más sencilla: los programas se conforman a partir de pequeñas piezas, cada una de las cuales se crea fácilmente
+- Mantenimiento más sencillo: El mantenimiento de sistemas OO es mucho más sencillo.
+	- Los eventos cambian el estado de los objetos. La mayoría de estos cambios de estados requiere pequeñas partes de código menos propensas a errores.
+	- Cada objeto lleva a cabo una función específica e independiente de los demás objetos
+- Modelado más realista: El análisis OO modela el área de aplicación de manera que sea lo más cercana posible a la realidad.
+- Mejor comunicación entre los profesionales del sistema y los empresarios: Los empresarios comprenden más fácilmente el paradigma OO.
+- Etc
