@@ -141,4 +141,11 @@ Un tipo de objetos de alto nivel puede especializarse en sub-tipos ó tipos de o
 	- Cada objeto lleva a cabo una función específica e independiente de los demás objetos
 - Modelado más realista: El análisis OO modela el área de aplicación de manera que sea lo más cercana posible a la realidad.
 - Mejor comunicación entre los profesionales del sistema y los empresarios: Los empresarios comprenden más fácilmente el paradigma OO.
-- Etc
+- Etc.
+
+
+
+---
+
+---
+# UML

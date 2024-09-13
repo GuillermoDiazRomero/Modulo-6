@@ -11,9 +11,11 @@
             "id": "6083656212627b7d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Imágenes/Pasted image 20240913010913.png"
+                "file": "Paradigmas/Lección 4.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Imágenes/Pasted image 20240913010913.png",
+                "file": "Paradigmas/Lección 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Imágenes/Pasted image 20240913010913.png",
+                "file": "Paradigmas/Lección 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Imágenes/Pasted image 20240913010913.png"
+                "file": "Paradigmas/Lección 4.md"
               }
             }
           },
@@ -155,10 +157,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "890abf6d7474d942",
+  "active": "6083656212627b7d",
   "lastOpenFiles": [
-    "Paradigmas/Lección 4.md",
     "Imágenes/Pasted image 20240913010913.png",
+    "Paradigmas/Lección 4.md",
     "Imágenes/Pasted image 20240913005708.png",
     "Imágenes/Pasted image 20240913010624.png",
     "Imágenes/Pasted image 20240913010217.png",
