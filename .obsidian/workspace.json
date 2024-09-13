@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paradigmas/Unidad 1.md",
+                "file": "Paradigmas/Lección 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Paradigmas/Unidad 1.md",
+                "file": "Paradigmas/Lección 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Paradigmas/Unidad 1.md",
+                "file": "Paradigmas/Lección 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paradigmas/Unidad 1.md"
+                "file": "Paradigmas/Lección 1.md"
               }
             }
           }
@@ -144,19 +144,38 @@
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "6083656212627b7d",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-08-23 14.38.23.excalidraw.md",
+    "Taller de Lenguajes II/probando.c",
+    "Taller de Lenguajes II/S.O.L.I.D..md",
+    "Taller de Lenguajes II/Probando.cs",
+    "Taller de Lenguajes II/POO (Programación Orientada a Objetos.md",
+    "Paradigmas/TP1/Repuestas.md",
+    "Paradigmas/TP1",
+    "Paradigmas/Lección 4.md",
+    "Paradigmas/Lección 3.md",
+    "Paradigmas/Lección 2.md",
+    "Paradigmas/Lección 1.md",
+    "Paradigmas",
+    "Imágenes/Pasted image 20240912142929.png",
+    "Imágenes/Pasted image 20240912142255.png",
+    "Imágenes/Pasted image 20240912142202.png",
+    "Imágenes/Pasted image 20240912141343.png",
+    "Imágenes/Pasted image 20240912140257.png",
+    "Imágenes/Pasted image 20240912140027.png",
+    "Imágenes/Pasted image 20240912135850.png",
+    "Imágenes/Pasted image 20240912135621.png",
+    "Imágenes/Pasted image 20240912135356.png",
+    "Imágenes/Pasted image 20240912134546.png",
     "Paradigmas/Unidad 1.md",
-    "Imágenes/Pasted image 20240823144646.png",
+    "Excalidraw/Drawing 2024-08-23 14.38.23.excalidraw.md",
     "Imágenes",
-    "Imágenes/Pasted image 20240823144118.png",
     "Excalidraw",
     "Taller de Lenguajes II",
-    "Paradigmas",
     "Sin título.canvas",
     "Sin título 1.canvas"
   ]
