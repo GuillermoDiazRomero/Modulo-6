@@ -148,4 +148,24 @@ Un tipo de objetos de alto nivel puede especializarse en sub-tipos ó tipos de o
 ---
 
 ---
-# UML
+# Unified Modeling Language (UML)
+
+Sistema notacional destinado al modelado de sistemas que utilizan conceptos OO.
+UML (lenguaje estándar):
+- Visualizar
+- Especificar (los elementos de un Sistema OO)
+- Construir
+- Documentar
+Esto es independiente del proceso de desarrollo.
+
+UML:
+- Elementos del Lenguaje
+- Relaciones entre elementos: Una relación es una conexión semántica entre los elementos y provee un camino de comunicación entre ellos.
+- Diagramas
+
+![[Pasted image 20240913151602.png]]
+**+ Público**
+**- Privado**
+**# Protegido**
+**<u>Estático</u>**
+
