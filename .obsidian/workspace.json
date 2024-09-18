@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bb11a3fe37cd9507",
+        "id": "e2e233590fdeb369",
         "type": "tabs",
         "children": [
           {
-            "id": "6083656212627b7d",
+            "id": "cee3b37a632293f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -157,10 +157,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6083656212627b7d",
+  "active": "cee3b37a632293f0",
   "lastOpenFiles": [
-    "Imágenes/Pasted image 20240913010913.png",
+    "Pasted image 20240913151602.png",
     "Paradigmas/Lección 4.md",
+    "Imágenes/Pasted image 20240913010913.png",
     "Imágenes/Pasted image 20240913005708.png",
     "Imágenes/Pasted image 20240913010624.png",
     "Imágenes/Pasted image 20240913010217.png",
@@ -179,7 +180,6 @@
     "Paradigmas/Lección 2.md",
     "Paradigmas",
     "Imágenes/Pasted image 20240912142929.png",
-    "Imágenes/Pasted image 20240912142255.png",
     "Paradigmas/Unidad 1.md",
     "Excalidraw/Drawing 2024-08-23 14.38.23.excalidraw.md",
     "Imágenes",
