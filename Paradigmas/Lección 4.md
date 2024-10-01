@@ -169,3 +169,114 @@ UML:
 **# Protegido**
 **<u>Estático</u>**
 
+**Clases en UML**
+![[Pasted image 20240925131726.png]]
+
+**Objetos:**
+![[Pasted image 20240925131845.png]]
+
+**Mensajes (se usan para especificar una comunicación entre objetos):**
+![[Pasted image 20240925131934.png]]
+
+**Notas (son los comentarios en UML):**
+![[Pasted image 20240925132112.png]]
+
+
+
+
+Tipos de relaciones entre elementos:
+- Dependencia
+- Generalización
+- Asociación
+
+#### Generalización
+Es una relación taxonómica entre un elemento más general (el padre ó supertipo) y un caso más específico de ese elemento (el hijo o subtipo).
+Notación:
+![[Pasted image 20240925132424.png]]
+![[Pasted image 20240925132434.png]]
+
+**Herencia en UML:**
+![[Pasted image 20240925132517.png]]
+
+#### Dependencia
+Es una relación semántica entre dos elementos, en la cual un cambio en un elemento puede afectar a la semántica de otro elemento.
+Notación:
+![[Pasted image 20240925132942.png]]
+
+Ejemplo:
+![[Pasted image 20240925133016.png]]
+
+#### Asociación
+Es una relación estructural entre dos elementos, que describe las conexiones netre ellos.
+Notación:
+![[Pasted image 20240925133103.png]]
+
+Ejemplo:
+![[Pasted image 20240925133116.png]]
+
+A su vez, tiene 3 tipos de asociaciones:
+- Navegabilidad: sirve para limitar la navegación a una sola dirección.![[Pasted image 20240925133211.png]]
+- Multiplicidad: denota el número de objetos que pueden participar en la relación.![[Pasted image 20240925133247.png]]
+- Rol: determina el papel que juega cada uno de los elementos dentro de la relación.![[Pasted image 20240925133313.png]]
+
+**Casos Particulares:**
+- Agregación: es una relación del tipo "todo/parte" dentro de la cual una o más clases son partes de un todo. Las partes pueden pertenecer a distintos agregados.![[Pasted image 20240925133422.png]]
+- Composición: Es una forma de agregación, con fuerte sentido de posesión y tiempo de vida coincidentes de las partes del conjunto.![[Pasted image 20240925133456.png]]
+
+**Diagramas:** UML define distintos tipos de diagramas para enfocar los distintos aspectos del sistema por separado. Un diagrama es una representación gráfica de un conjunto de elementos.
+- Diagramas de casos de uso.
+- Diagramas de Interacción (secuencia o colaboración).
+- Diagramas de Clases.
+- Diagramas de Objetos.
+
+#### Diagrama de Interacción
+Consisten en un conjunto de objetos y sus relaciones, incluyendo los mensajes que se pueden enviar entre ellos
+- Diagrama de Secuencia: Resaltan la **ordenación temporal** de los mensajes que se intercambian.
+![[Pasted image 20240925134105.png]]
+
+- Diagrama de Colaboración/Comunicación: Resaltan la **ordenación estructural** de los objetos que envían y reciben mensajes.
+![[Pasted image 20240925134122.png]]
+
+#### Diagrama de Clases
+Describe los tipos de objetos presentes en el sistema y los distintos tipos de relaciones estáticas existentes entre ellos.
+![[Pasted image 20240925134351.png]]
+
+#### Diagramas de Objetos
+Ilustra un conjunto de objetos y sus relaciones en un determinado momento.
+![[Pasted image 20240925134447.png]]
+
+
+
+---
+
+---
+## Pasos para encontrar la solución a un problema mediante POO
+
+1. Identificar datos E/S (entrada y salida), acciones requeridas y limitaciones/restricciones existentes en la descripción del problema.
+2. Definir las clases que se deben implementar.
+	- Identificar las posibles clases buscando los sustantivos relevantes que no sean datos de E/S.
+	- Relacionar los sustantivos con los datos de E/S y las acciones identificadas.
+	- Seleccionar como clases aquellos sustantivos que tienen asignado al menos un dato o al menos una acción. Los demás sustantivos son eliminados.
+	- Nombrar cada clase con un sustantivo en singular y diagramarla con las variables, los métodos y sus respectivos modificadores de acceso.
+3. Establecer las relaciones existentes entre las clases
+4. Construir Diagrama de Clases
+
+Ejemplo:
+
+**PASO 1:**
+![[Pasted image 20240925140733.png]]
+![[Pasted image 20240925140748.png]]
+![[Pasted image 20240925140800.png]]![[Pasted image 20240925140805.png]]![[Pasted image 20240925140813.png]]
+
+
+**PASO 2:**
+![[Pasted image 20240925140839.png]]
+![[Pasted image 20240925140916.png]]
+![[Pasted image 20240925140928.png]]![[Pasted image 20240925140934.png]]![[Pasted image 20240925140943.png]]![[Pasted image 20240925140949.png]]
+
+**PASO 3:**
+![[Pasted image 20240925141014.png]]
+
+**PASO 4:**
+![[Pasted image 20240925141035.png]]
+![[Pasted image 20240925141052.png]]
