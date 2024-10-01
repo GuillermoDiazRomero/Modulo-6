@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "bb11a3fe37cd9507",
+        "id": "e2e233590fdeb369",
         "type": "tabs",
         "children": [
           {
-            "id": "dbdb5289d2bde4f6",
+            "id": "cee3b37a632293f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algoritmos y Estructuras de Datos II/TP4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c5738ad3ae01c47c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "aa732240f8fe415b",
@@ -138,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -157,12 +171,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dbdb5289d2bde4f6",
+  "active": "c5738ad3ae01c47c",
   "lastOpenFiles": [
-    "Paradigmas/Lección 4.md",
+    "Algoritmos y Estructuras de Datos II/Greedy.md",
     "Algoritmos y Estructuras de Datos II/TP4.md",
+    "Paradigmas/Lección 4.md",
     "Algoritmos y Estructuras de Datos II",
     "conflict-files-obsidian-git.md",
+    "Imágenes/Pasted image 20240913151602.png",
     "Imágenes/Pasted image 20240925141052.png",
     "Imágenes/Pasted image 20240925141035.png",
     "Imágenes/Pasted image 20240925141014.png",
@@ -172,9 +188,6 @@
     "Imágenes/Pasted image 20240925140928.png",
     "Imágenes/Pasted image 20240925140916.png",
     "Imágenes/Pasted image 20240925140839.png",
-    "Imágenes/Pasted image 20240925140813.png",
-    "L8.V1.Paradigma Funcional.pdf.md",
-    "Paradigmas/Lección 3.md",
     "Paradigmas/Lección 1.md",
     "Taller de Lenguajes II/probando.c",
     "Taller de Lenguajes II/S.O.L.I.D..md",
@@ -182,6 +195,7 @@
     "Taller de Lenguajes II/POO (Programación Orientada a Objetos.md",
     "Paradigmas/TP1/Repuestas.md",
     "Paradigmas/TP1",
+    "Paradigmas/Lección 3.md",
     "Paradigmas/Lección 2.md",
     "Paradigmas",
     "Paradigmas/Unidad 1.md",
