@@ -1,26 +1,14 @@
 {
   "main": {
-    "id": "dede67ccdd201e90",
+    "id": "e197e68682567e3d",
     "type": "split",
     "children": [
       {
-        "id": "bb11a3fe37cd9507",
+        "id": "8422eed39a4f55e9",
         "type": "tabs",
         "children": [
           {
-            "id": "dbdb5289d2bde4f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algoritmos y Estructuras de Datos II/TP4.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa40864a5c01efd1",
+            "id": "27233828552c4552",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,22 +19,21 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "9bfff869dbd1f274",
+    "id": "1f4467b90604e4f0",
     "type": "split",
     "children": [
       {
-        "id": "61b2cd238c5096d0",
+        "id": "ce09f51f4f50f8fa",
         "type": "tabs",
         "children": [
           {
-            "id": "890abf6d7474d942",
+            "id": "b3fc50607aa67dda",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,12 +43,12 @@
             }
           },
           {
-            "id": "9d17da8538d774e6",
+            "id": "240834e06dcc3a56",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#excalidraw",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,7 +58,7 @@
             }
           },
           {
-            "id": "9df592452a1b7846",
+            "id": "7526e81c172adc1f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -85,15 +72,15 @@
     "width": 300
   },
   "right": {
-    "id": "aa732240f8fe415b",
+    "id": "9973e66ee3877f9f",
     "type": "split",
     "children": [
       {
-        "id": "dc7020d8a2c578c7",
+        "id": "0c365b0c01c88fa1",
         "type": "tabs",
         "children": [
           {
-            "id": "eee09ae7e25131fa",
+            "id": "6bbdd1ac4480f91d",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -110,7 +97,7 @@
             }
           },
           {
-            "id": "4a80c56c24a5f8e1",
+            "id": "ebb5b37e9df7e3e4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -122,7 +109,7 @@
             }
           },
           {
-            "id": "ea5d74dd8310e586",
+            "id": "42454311cb06b36e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,7 +120,7 @@
             }
           },
           {
-            "id": "67652242ac3c9f9d",
+            "id": "66dacab04264fcdb",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -141,17 +128,8 @@
                 "file": "Paradigmas/Lección 5.md"
               }
             }
-          },
-          {
-            "id": "ffaa6cf1043801e0",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -165,47 +143,28 @@
       "canvas:Crear nuevo lienzo": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "aa40864a5c01efd1",
+  "active": "27233828552c4552",
   "lastOpenFiles": [
-    "Pasted image 20241002133157.png",
-    "Pasted image 20241002133136.png",
-    "Imágenes/Pasted image 20241002131407.png",
-    "Paradigmas/Lección 4.md",
-    "Paradigmas/Lección 5.md",
-    "Algoritmos y Estructuras de Datos II/TP4.md",
-    "Algoritmos y Estructuras de Datos II/Greedy.md",
-    "Algoritmos y Estructuras de Datos II",
-    "conflict-files-obsidian-git.md",
-    "Imágenes/Pasted image 20240925141052.png",
-    "Imágenes/Pasted image 20240925141035.png",
-    "Imágenes/Pasted image 20240925141014.png",
-    "Imágenes/Pasted image 20240925140949.png",
-    "Imágenes/Pasted image 20240925140943.png",
-    "Imágenes/Pasted image 20240925140934.png",
-    "Imágenes/Pasted image 20240925140928.png",
-    "Imágenes/Pasted image 20240925140916.png",
-    "L8.V1.Paradigma Funcional.pdf.md",
-    "Paradigmas/Lección 3.md",
-    "Paradigmas/Lección 1.md",
-    "Taller de Lenguajes II/probando.c",
-    "Taller de Lenguajes II/S.O.L.I.D..md",
-    "Taller de Lenguajes II/Probando.cs",
-    "Taller de Lenguajes II/POO (Programación Orientada a Objetos.md",
-    "Paradigmas/TP1/Repuestas.md",
-    "Paradigmas/TP1",
-    "Paradigmas/Lección 2.md",
-    "Paradigmas",
-    "Paradigmas/Unidad 1.md",
-    "Excalidraw/Drawing 2024-08-23 14.38.23.excalidraw.md",
-    "Imágenes",
-    "Excalidraw",
-    "Taller de Lenguajes II",
-    "Sin título.canvas",
-    "Sin título 1.canvas"
+    "Pasted image 20241002154917.png",
+    "Pasted image 20241002154858.png",
+    "Imágenes/Pasted image 20241002133157.png",
+    "Pasted image 20240828180101.png",
+    "Imagenes/Pasted image 20240828174717.png",
+    "Imagenes/Pasted image 20240821182848.png",
+    "S.O.L.I.D..md",
+    "POO (Programación Orientada a Objetos.md",
+    "Imagenes/Pasted image 20240821182839.png",
+    "Imagenes/Pasted image 20240821182651.png",
+    "Imagenes/Pasted image 20240821182531.png",
+    "Imagenes/Pasted image 20240821182055.png",
+    "Imagenes/Pasted image 20240821181914.png",
+    "Imagenes",
+    "Probando.cs",
+    "probando.c",
+    "New Documento de texto.txt",
+    "Bienvenido.md"
   ]
 }

@@ -48,3 +48,30 @@ TAD implementado como una clase:
 - Para definir cada función, fuera del alcance de la clase, se debe usar el operador de resolución de alcance **::** 
 ![[Pasted image 20241002133157.png]]
 - Un identificador no puede ser simultáneamente un miembro dato y una función miembro.
+
+Funciones Miembros Especiales:
+- *Constructor*: tiene el mismo nombre de la clase
+- *Destructor*: tiene el mismo nombre de la clase precedida por el carácter *" ~ "* (tilde)
+
+- El nombre de la clase se convierte en un especificador de tipo
+- Cuando se crea un objeto de una clase se llama constructor de la clase que inicializa a cada miembro dato.
+- La implementación de una clase está oculta a sus clientes
+- C++ permite declaraciones de clases incompletas o forward y efectuar referencias al nombre de esa clase (con punteros a la misma) antes de la clase haya sido definida totalmente.
+
+```
+class x; //definición incompleta, Exige una delcaración posterior
+
+void f(X*a);
+
+class Y{
+	X*pX; //objeto puntero de la clase X
+	...
+}
+
+class X{ //definición completa
+	...
+}
+```
+
+![[Pasted image 20241002154858.png]]
+![[Pasted image 20241002154917.png]]
