@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "e197e68682567e3d",
+    "id": "dede67ccdd201e90",
     "type": "split",
     "children": [
       {
-        "id": "8422eed39a4f55e9",
+        "id": "e2e233590fdeb369",
         "type": "tabs",
         "children": [
           {
-            "id": "27233828552c4552",
+            "id": "cee3b37a632293f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paradigmas/Lección 5.md",
+                "file": "Paradigmas/Lección 4.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "1f4467b90604e4f0",
+    "id": "9bfff869dbd1f274",
     "type": "split",
     "children": [
       {
-        "id": "ce09f51f4f50f8fa",
+        "id": "61b2cd238c5096d0",
         "type": "tabs",
         "children": [
           {
-            "id": "b3fc50607aa67dda",
+            "id": "890abf6d7474d942",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,12 +43,12 @@
             }
           },
           {
-            "id": "240834e06dcc3a56",
+            "id": "9d17da8538d774e6",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#excalidraw",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "7526e81c172adc1f",
+            "id": "9df592452a1b7846",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "9973e66ee3877f9f",
+    "id": "aa732240f8fe415b",
     "type": "split",
     "children": [
       {
-        "id": "0c365b0c01c88fa1",
+        "id": "dc7020d8a2c578c7",
         "type": "tabs",
         "children": [
           {
-            "id": "6bbdd1ac4480f91d",
+            "id": "eee09ae7e25131fa",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Paradigmas/Lección 5.md",
+                "file": "Paradigmas/Lección 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "ebb5b37e9df7e3e4",
+            "id": "4a80c56c24a5f8e1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Paradigmas/Lección 5.md",
+                "file": "Paradigmas/Lección 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "42454311cb06b36e",
+            "id": "ea5d74dd8310e586",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,16 +120,25 @@
             }
           },
           {
-            "id": "66dacab04264fcdb",
+            "id": "67652242ac3c9f9d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paradigmas/Lección 5.md"
+                "file": "Paradigmas/Lección 4.md"
               }
             }
+          },
+          {
+            "id": "ffaa6cf1043801e0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -143,28 +152,41 @@
       "canvas:Crear nuevo lienzo": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "27233828552c4552",
+  "active": "cee3b37a632293f0",
   "lastOpenFiles": [
-    "Pasted image 20241002154917.png",
-    "Pasted image 20241002154858.png",
-    "Imágenes/Pasted image 20241002133157.png",
-    "Pasted image 20240828180101.png",
-    "Imagenes/Pasted image 20240828174717.png",
-    "Imagenes/Pasted image 20240821182848.png",
-    "S.O.L.I.D..md",
-    "POO (Programación Orientada a Objetos.md",
-    "Imagenes/Pasted image 20240821182839.png",
-    "Imagenes/Pasted image 20240821182651.png",
-    "Imagenes/Pasted image 20240821182531.png",
-    "Imagenes/Pasted image 20240821182055.png",
-    "Imagenes/Pasted image 20240821181914.png",
-    "Imagenes",
-    "Probando.cs",
-    "probando.c",
-    "New Documento de texto.txt",
-    "Bienvenido.md"
+    "Imágenes/Pasted image 20240913151602.png",
+    "Paradigmas/Lección 4.md",
+    "Imágenes/Pasted image 20240925141052.png",
+    "Imágenes/Pasted image 20240925141035.png",
+    "Imágenes/Pasted image 20240925141014.png",
+    "Imágenes/Pasted image 20240925140949.png",
+    "Imágenes/Pasted image 20240925140943.png",
+    "Imágenes/Pasted image 20240925140934.png",
+    "Imágenes/Pasted image 20240925140928.png",
+    "Imágenes/Pasted image 20240925140916.png",
+    "Imágenes/Pasted image 20240925140839.png",
+    "Imágenes/Pasted image 20240925140813.png",
+    "Paradigmas/Lección 1.md",
+    "Taller de Lenguajes II/probando.c",
+    "Taller de Lenguajes II/S.O.L.I.D..md",
+    "Taller de Lenguajes II/Probando.cs",
+    "Taller de Lenguajes II/POO (Programación Orientada a Objetos.md",
+    "Paradigmas/TP1/Repuestas.md",
+    "Paradigmas/TP1",
+    "Paradigmas/Lección 3.md",
+    "Paradigmas/Lección 2.md",
+    "Paradigmas",
+    "Paradigmas/Unidad 1.md",
+    "Excalidraw/Drawing 2024-08-23 14.38.23.excalidraw.md",
+    "Imágenes",
+    "Excalidraw",
+    "Taller de Lenguajes II",
+    "Sin título.canvas",
+    "Sin título 1.canvas"
   ]
 }
