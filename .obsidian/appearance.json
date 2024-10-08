@@ -1,4 +1,9 @@
 {
+<<<<<<< HEAD
   "cssTheme": "Sparkling Wisdom",
   "theme": "moonstone"
+=======
+  "cssTheme": "Elegance",
+  "accentColor": ""
+>>>>>>> origin/main
 }
