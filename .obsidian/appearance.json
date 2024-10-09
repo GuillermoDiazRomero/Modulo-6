@@ -1,9 +1,4 @@
 {
-<<<<<<< HEAD
-  "cssTheme": "Sparkling Wisdom",
-  "theme": "moonstone"
-=======
-  "cssTheme": "Elegance",
-  "accentColor": ""
->>>>>>> origin/main
+  "theme": "obsidian",
+  "cssTheme": "Elegance"
 }
