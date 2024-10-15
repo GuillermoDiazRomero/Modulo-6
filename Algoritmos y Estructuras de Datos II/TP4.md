@@ -29,6 +29,23 @@ FUNCION NumeroEnVector(A,x,ini,fin): Vector[ent>0], ent>0, ent>0, ent>0 --> ente
 		RETORNO NumeroEnVector(A,x,ini,mitad)+NumeroEnVector(A,x,mitad+1,fin)
 ```
 
+SOLUCIÓN DEL QUIZZ
+```
+FUNCION NumeroEnVector(A,x,ini,fin): Vector[ent>0], ent>0, ent>0, ent>0 --> entero>=0
+		SI (ini = fin) ENTONCES
+			SI (A[ini] = x) ENTONCES
+				RETORNO 1
+			SINO
+			RETORNO 0
+		SINO
+	mitad = (ini+fin)/2
+	RETORNO NumeroEnVector(A,x,ini,mitad)+NumeroEnVector(A,x,mitad+1,fin)
+FIN FUNCION
+
+# ini = 1
+# fin = n
+```
+
 ### Punto 4
 Divide&Conquer
 ```

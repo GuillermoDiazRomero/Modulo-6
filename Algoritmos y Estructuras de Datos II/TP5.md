@@ -10,7 +10,10 @@ Salida: Número máximo de actividades que se pueden realizar sin solaparse.
 1. Ordenar las actividades en orden ascendente por su hora de finalización (Hf).  
 2. Inicializar `contador` a 1 (asumiendo que la primera actividad ya está seleccionada).    Establecer `ultimaHoraFinalizacion` como la hora de finalización de la primera actividad.  
 3. Para cada actividad `i` desde la segunda actividad hasta la N-ésima:    
-	a. Si la hora de inicio de la actividad `i` (Hi) es mayor o igual a `ultimaHoraFinalizacion`:       - Incrementar `contador` en 1.       - Actualizar `ultimaHoraFinalizacion` a la hora de finalización de la actividad `i` (Hf).  4. Retornar `contador` como el número máximo de actividades que se pueden realizar.``
+	a. Si la hora de inicio de la actividad `i` (Hi) es mayor o igual a `ultimaHoraFinalizacion`:       
+		- Incrementar `contador` en 1.       
+		- Actualizar `ultimaHoraFinalizacion` a la hora de finalización de la actividad `i` (Hf).  
+4. Retornar `contador` como el número máximo de actividades que se pueden realizar.``
 ```
 
 ### Ejemplo paso a paso:

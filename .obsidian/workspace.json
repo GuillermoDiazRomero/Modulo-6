@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "bb11a3fe37cd9507",
+        "id": "c0a419fc130c4c1d",
         "type": "tabs",
         "children": [
           {
-            "id": "1583b64536a2c3c1",
+            "id": "0926e06d32b7c8cd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algoritmos y Estructuras de Datos II/TP4.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "aa732240f8fe415b",
@@ -85,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmos y Estructuras de Datos II/TP4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algoritmos y Estructuras de Datos II/TP4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Algoritmos y Estructuras de Datos II/TP4.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,33 +149,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1583b64536a2c3c1",
+  "active": "0926e06d32b7c8cd",
   "lastOpenFiles": [
-    "TP5.md",
-    "Algoritmos y Estructuras de Datos II/Greedy.md",
+    "Taller de Lenguajes II/Para el parcial.md",
+    "Pasted image 20241014154316.png",
+    "Pasted image 20241014150053.png",
+    "Pasted image 20241014150047.png",
+    "Pasted image 20241014150016.png",
+    "Pasted image 20241014145957.png",
+    "Pasted image 20241014144440.png",
+    "Pasted image 20241014142250.png",
+    "Pasted image 20241014004117.png",
+    "Pasted image 20241014004108.png",
+    "Pasted image 20241014003324.png",
+    "Taller de Lenguajes II/POO (Programación Orientada a Objetos.md",
     "Algoritmos y Estructuras de Datos II/TP4.md",
     "conflict-files-obsidian-git.md",
-    "Pasted image 20241002154917.png",
-    "Pasted image 20241002154858.png",
-    "Imágenes/Pasted image 20241002133157.png",
-    "Imágenes/Pasted image 20241002133136.png",
+    "Algoritmos y Estructuras de Datos II/TP5.md",
+    "TP5.md",
+    "Algoritmos y Estructuras de Datos II/Greedy.md",
     "Sin nombre",
     "Paradigmas/Lección 5.md",
-    "Pasted image 20241002133157.png",
-    "Pasted image 20241002133136.png",
-    "Imágenes/Pasted image 20241002131407.png",
     "Paradigmas/Lección 4.md",
     "Algoritmos y Estructuras de Datos II",
-    "Imágenes/Pasted image 20240925141052.png",
-    "Imágenes/Pasted image 20240925141035.png",
-    "Imágenes/Pasted image 20240925141014.png",
     "L8.V1.Paradigma Funcional.pdf.md",
     "Paradigmas/Lección 3.md",
     "Paradigmas/Lección 1.md",
     "Taller de Lenguajes II/probando.c",
     "Taller de Lenguajes II/S.O.L.I.D..md",
     "Taller de Lenguajes II/Probando.cs",
-    "Taller de Lenguajes II/POO (Programación Orientada a Objetos.md",
     "Paradigmas/TP1/Repuestas.md",
     "Paradigmas/TP1",
     "Paradigmas/Lección 2.md",
