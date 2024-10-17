@@ -11,11 +11,9 @@
             "id": "0926e06d32b7c8cd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Taller de Lenguajes II/POO (Programación Orientada a Objetos.md",
-                "mode": "source",
-                "source": false
+                "file": "Imágenes/Pasted image 20241012214141.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Taller de Lenguajes II/POO (Programación Orientada a Objetos.md",
+                "file": "Imágenes/Pasted image 20241012214141.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Taller de Lenguajes II/POO (Programación Orientada a Objetos.md",
+                "file": "Imágenes/Pasted image 20241012214141.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Taller de Lenguajes II/POO (Programación Orientada a Objetos.md"
+                "file": "Imágenes/Pasted image 20241012214141.png"
               }
             }
           },
@@ -156,20 +154,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0926e06d32b7c8cd",
+  "active": "890abf6d7474d942",
   "lastOpenFiles": [
-    "Taller de Lenguajes II/Para el parcial.md",
-    "Pasted image 20241014154316.png",
-    "Pasted image 20241014150053.png",
-    "Pasted image 20241014150047.png",
-    "Pasted image 20241014150016.png",
-    "Pasted image 20241014145957.png",
-    "Pasted image 20241014144440.png",
-    "Pasted image 20241014142250.png",
-    "Pasted image 20241014004117.png",
-    "Pasted image 20241014004108.png",
-    "Pasted image 20241014003324.png",
+    "Paradigmas/Lección 3.md",
+    "Paradigmas/Lección 2.md",
+    "Paradigmas/Lección 1.md",
+    "Paradigmas/TP1/Repuestas.md",
     "Taller de Lenguajes II/POO (Programación Orientada a Objetos.md",
+    "Taller de Lenguajes II/Para el parcial.md",
+    "Imágenes/Pasted image 20241014154316.png",
+    "Imágenes/Pasted image 20241014150053.png",
+    "Imágenes/Pasted image 20241014150047.png",
+    "Imágenes/Pasted image 20241014150016.png",
+    "Imágenes/Pasted image 20241014145957.png",
+    "Imágenes/Pasted image 20241014144440.png",
+    "Imágenes/Pasted image 20241014142250.png",
+    "Imágenes/Pasted image 20241014004117.png",
+    "Pasted image 20241014004108.png",
+    "Imágenes/Pasted image 20241014003324.png",
     "Algoritmos y Estructuras de Datos II/TP4.md",
     "conflict-files-obsidian-git.md",
     "Algoritmos y Estructuras de Datos II/TP5.md",
@@ -180,14 +182,10 @@
     "Paradigmas/Lección 4.md",
     "Algoritmos y Estructuras de Datos II",
     "L8.V1.Paradigma Funcional.pdf.md",
-    "Paradigmas/Lección 3.md",
-    "Paradigmas/Lección 1.md",
     "Taller de Lenguajes II/probando.c",
     "Taller de Lenguajes II/S.O.L.I.D..md",
     "Taller de Lenguajes II/Probando.cs",
-    "Paradigmas/TP1/Repuestas.md",
     "Paradigmas/TP1",
-    "Paradigmas/Lección 2.md",
     "Paradigmas",
     "Paradigmas/Unidad 1.md",
     "Excalidraw/Drawing 2024-08-23 14.38.23.excalidraw.md",
