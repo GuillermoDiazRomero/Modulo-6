@@ -8,15 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cee3b37a632293f0",
+            "id": "66d2d76d39ee4c2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Taller de Lenguajes II/Para el parcial.md",
+                "file": "Base de Datos I/22-10-240 (SQL).md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "22-10-240 (SQL)"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Taller de Lenguajes II/Para el parcial.md",
+                "file": "Base de Datos I/22-10-240 (SQL).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de 22-10-240 (SQL)"
             }
           },
           {
@@ -102,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Taller de Lenguajes II/Para el parcial.md",
+                "file": "Base de Datos I/22-10-240 (SQL).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de 22-10-240 (SQL)"
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
             }
           },
           {
@@ -125,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Taller de Lenguajes II/Para el parcial.md"
-              }
+                "file": "Base de Datos I/22-10-240 (SQL).md"
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de 22-10-240 (SQL)"
             }
           },
           {
@@ -134,15 +150,17 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -157,27 +175,31 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cee3b37a632293f0",
+  "active": "66d2d76d39ee4c2b",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Excalidraw/Drawing 2024-10-22 18.33.11.excalidraw.md",
+    "Base de Datos I/22-10-240 (SQL).md",
+    "Excalidraw",
+    "Taller de Lenguajes II/S.O.L.I.D..md",
+    "Base de Datos I",
     "Taller de Lenguajes II/Para el parcial.md",
-    "Pasted image 20241014154316.png",
-    "Pasted image 20241012214141.png",
+    "conflict-files-obsidian-git.md",
+    "Imágenes/Pasted image 20241014154316.png",
+    "Imágenes/Pasted image 20241014150053.png",
+    "Imágenes/Pasted image 20241014150047.png",
+    "Imágenes/Pasted image 20241014150016.png",
+    "Imágenes/Pasted image 20241014145957.png",
+    "Imágenes/Pasted image 20241014144440.png",
+    "Imágenes/Pasted image 20241014142250.png",
+    "Imágenes/Pasted image 20241014004117.png",
+    "Imágenes/Pasted image 20241014003324.png",
+    "Imágenes/Pasted image 20241014003013.png",
     "Algoritmos y Estructuras de Datos II/TP4.md",
-    "Pasted image 20241014150053.png",
-    "Pasted image 20241014150047.png",
-    "Pasted image 20241014150016.png",
-    "Pasted image 20241014145957.png",
-    "Pasted image 20241014144440.png",
-    "Pasted image 20241014142250.png",
-    "Pasted image 20241014004117.png",
-    "Pasted image 20241014003324.png",
     "Algoritmos y Estructuras de Datos II/TP5.md",
     "Paradigmas/Lección 4.md",
     "Algoritmos y Estructuras de Datos II/Greedy.md",
     "Paradigmas/Lección 1.md",
     "Taller de Lenguajes II/probando.c",
-    "Taller de Lenguajes II/S.O.L.I.D..md",
     "Taller de Lenguajes II/Probando.cs",
     "Taller de Lenguajes II/POO (Programación Orientada a Objetos.md",
     "Paradigmas/TP1/Repuestas.md",
@@ -188,7 +210,6 @@
     "Paradigmas/Unidad 1.md",
     "Excalidraw/Drawing 2024-08-23 14.38.23.excalidraw.md",
     "Imágenes",
-    "Excalidraw",
     "Taller de Lenguajes II",
     "Sin título.canvas",
     "Sin título 1.canvas"
