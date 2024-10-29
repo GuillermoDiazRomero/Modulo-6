@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1b90cf1ba3741d6c",
+        "id": "e2e233590fdeb369",
         "type": "tabs",
         "children": [
           {
-            "id": "e445180b63efa57b",
+            "id": "6b7db43180a621b7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Algoritmos y Estructuras de Datos II/TP7.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "TP7"
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Base de Datos I/22-10-240 (SQL).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes"
+              "title": "Enlaces entrantes de 22-10-240 (SQL)"
             }
           },
           {
@@ -107,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algoritmos y Estructuras de Datos II/TP5.md",
+                "file": "Base de Datos I/22-10-240 (SQL).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de TP5"
+              "title": "Enlaces salientes de 22-10-240 (SQL)"
             }
           },
           {
@@ -133,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Base de Datos I/22-10-240 (SQL).md"
+              },
               "icon": "lucide-list",
-              "title": "Esquema"
+              "title": "Esquema de 22-10-240 (SQL)"
             }
           },
           {
@@ -153,7 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 385.5,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -164,15 +171,19 @@
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e445180b63efa57b",
+  "active": "6b7db43180a621b7",
   "lastOpenFiles": [
+    "Pasted image 20241029104510.png",
     "Algoritmos y Estructuras de Datos II/TP6.md",
-    "Imágenes/Pasted image 20241023154655.png",
+    "Paradigmas/Lección 5.md",
+    "Algoritmos y Estructuras de Datos II/TP7.md",
+    "Imagen de WhatsApp 2024-10-29 a las 09.07.07_ce7f9ec5.jpg",
     "Algoritmos y Estructuras de Datos II/TP5.md",
-    "Taller de Lenguajes II/Para el parcial.md",
+    "Lección 6 Parte I.md",
     "Imágenes/Pasted image 20241023161704.png",
     "Imágenes/Pasted image 20241023161606.png",
     "Imágenes/Pasted image 20241023161410.png",
@@ -182,29 +193,24 @@
     "Imágenes/Pasted image 20241023155145.png",
     "Imágenes/Pasted image 20241023155135.png",
     "Imágenes/Pasted image 20241023155044.png",
-    "Lección 6 Parte I.md",
+    "Base de Datos I/22-10-240 (SQL).md",
     "Excalidraw/Drawing 2024-10-22 18.33.11.excalidraw.md",
     "Excalidraw",
-    "Base de Datos I/22-10-240 (SQL).md",
+    "Taller de Lenguajes II/S.O.L.I.D..md",
     "Base de Datos I",
-    "Algoritmos y Estructuras de Datos II/Greedy.md",
+    "Taller de Lenguajes II/Para el parcial.md",
+    "conflict-files-obsidian-git.md",
     "Algoritmos y Estructuras de Datos II/TP4.md",
+    "Paradigmas/Lección 4.md",
+    "Algoritmos y Estructuras de Datos II/Greedy.md",
+    "Paradigmas/Lección 1.md",
+    "Taller de Lenguajes II/probando.c",
+    "Taller de Lenguajes II/Probando.cs",
+    "Taller de Lenguajes II/POO (Programación Orientada a Objetos.md",
+    "Paradigmas/TP1/Repuestas.md",
+    "Paradigmas/TP1",
     "Paradigmas/Lección 3.md",
     "Paradigmas/Lección 2.md",
-    "Paradigmas/Lección 1.md",
-    "Paradigmas/TP1/Repuestas.md",
-    "Taller de Lenguajes II/POO (Programación Orientada a Objetos.md",
-    "conflict-files-obsidian-git.md",
-    "TP5.md",
-    "Sin nombre",
-    "Paradigmas/Lección 5.md",
-    "Paradigmas/Lección 4.md",
-    "Algoritmos y Estructuras de Datos II",
-    "L8.V1.Paradigma Funcional.pdf.md",
-    "Taller de Lenguajes II/probando.c",
-    "Taller de Lenguajes II/S.O.L.I.D..md",
-    "Taller de Lenguajes II/Probando.cs",
-    "Paradigmas/TP1",
     "Paradigmas",
     "Paradigmas/Unidad 1.md",
     "Excalidraw/Drawing 2024-08-23 14.38.23.excalidraw.md",

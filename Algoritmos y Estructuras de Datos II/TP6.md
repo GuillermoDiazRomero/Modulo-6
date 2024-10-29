@@ -82,3 +82,6 @@ suma_minima = suma_minima_triangulo(triangulo)
 Imprimir "La suma mínima para descender por el triángulo es:", suma_minima
 
 4. **Resultado**: Al ejecutar este algoritmo, el valor resultante será la suma mínima para llegar a la base del triángulo desde el vértice superior.
+
+
+![[Imagen de WhatsApp 2024-10-29 a las 09.07.07_ce7f9ec5.jpg]]
