@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e0cb9d4ffd9672bd",
+        "id": "ec3c0b6d85522672",
         "type": "tabs",
         "children": [
           {
-            "id": "ff42dcd4a184e9b2",
+            "id": "48dcbe7a44d3f059",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -167,8 +167,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ff42dcd4a184e9b2",
+  "active": "48dcbe7a44d3f059",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Paradigmas/Lección 6 Parte I.md",
+    "Imágenes/Pasted image 20241029104510.png",
+    "Imágenes/Imagen de WhatsApp 2024-10-29 a las 09.07.07_ce7f9ec5.jpg",
+    "Base de Datos I/29-10-2024 (SQL2).md",
+    "Base de Datos I/22-10-2024 (SQL).md",
+    "Algoritmos y Estructuras de Datos II/TP7.md",
     "Algoritmos y Estructuras de Datos II/TP6.md",
     "Imágenes/Pasted image 20241023154655.png",
     "Algoritmos y Estructuras de Datos II/TP5.md",
@@ -180,8 +187,6 @@
     "Imágenes/Pasted image 20241023155419.png",
     "Imágenes/Pasted image 20241023155222.png",
     "Imágenes/Pasted image 20241023155145.png",
-    "Imágenes/Pasted image 20241023155135.png",
-    "Imágenes/Pasted image 20241023155044.png",
     "Lección 6 Parte I.md",
     "Excalidraw/Drawing 2024-10-22 18.33.11.excalidraw.md",
     "Excalidraw",
@@ -194,7 +199,6 @@
     "Paradigmas/Lección 1.md",
     "Paradigmas/TP1/Repuestas.md",
     "Taller de Lenguajes II/POO (Programación Orientada a Objetos.md",
-    "conflict-files-obsidian-git.md",
     "TP5.md",
     "Sin nombre",
     "Paradigmas/Lección 5.md",
