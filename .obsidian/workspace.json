@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1b90cf1ba3741d6c",
+        "id": "e0cb9d4ffd9672bd",
         "type": "tabs",
         "children": [
           {
-            "id": "e445180b63efa57b",
+            "id": "ff42dcd4a184e9b2",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -167,7 +167,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e445180b63efa57b",
+  "active": "ff42dcd4a184e9b2",
   "lastOpenFiles": [
     "Algoritmos y Estructuras de Datos II/TP6.md",
     "Imágenes/Pasted image 20241023154655.png",
