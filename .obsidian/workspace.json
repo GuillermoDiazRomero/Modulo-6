@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ec3c0b6d85522672",
+        "id": "b2573be120f8ecaf",
         "type": "tabs",
         "children": [
           {
-            "id": "48dcbe7a44d3f059",
+            "id": "badb81e2aefafdf0",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -167,26 +167,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "48dcbe7a44d3f059",
+  "active": "badb81e2aefafdf0",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
+    "Taller de Lenguajes II/MVC con ASP.md",
+    "Pasted image 20241030190753.png",
+    "Pasted image 20241030190733.png",
+    "Pasted image 20241030190657.png",
+    "Pasted image 20241030185752.png",
+    "Pasted image 20241030185711.png",
+    "Pasted image 20241030185640.png",
+    "Pasted image 20241030185621.png",
+    "Pasted image 20241030185318.png",
+    "Pasted image 20241030185112.png",
+    "Pasted image 20241030184918.png",
     "Paradigmas/Lección 6 Parte I.md",
-    "Imágenes/Pasted image 20241029104510.png",
-    "Imágenes/Imagen de WhatsApp 2024-10-29 a las 09.07.07_ce7f9ec5.jpg",
     "Base de Datos I/29-10-2024 (SQL2).md",
     "Base de Datos I/22-10-2024 (SQL).md",
     "Algoritmos y Estructuras de Datos II/TP7.md",
     "Algoritmos y Estructuras de Datos II/TP6.md",
-    "Imágenes/Pasted image 20241023154655.png",
     "Algoritmos y Estructuras de Datos II/TP5.md",
     "Taller de Lenguajes II/Para el parcial.md",
-    "Imágenes/Pasted image 20241023161704.png",
-    "Imágenes/Pasted image 20241023161606.png",
-    "Imágenes/Pasted image 20241023161410.png",
-    "Imágenes/Pasted image 20241023160826.png",
-    "Imágenes/Pasted image 20241023155419.png",
-    "Imágenes/Pasted image 20241023155222.png",
-    "Imágenes/Pasted image 20241023155145.png",
     "Lección 6 Parte I.md",
     "Excalidraw/Drawing 2024-10-22 18.33.11.excalidraw.md",
     "Excalidraw",
