@@ -11,10 +11,14 @@
             "id": "badb81e2aefafdf0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Algoritmos y Estructuras de Datos II/TP7.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "TP7"
             }
           }
         ]
@@ -73,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "aa732240f8fe415b",
@@ -169,18 +174,19 @@
   },
   "active": "badb81e2aefafdf0",
   "lastOpenFiles": [
+    "Taller de Lenguajes II/S.O.L.I.D..md",
+    "Imágenes/Pasted image 20241030190753.png",
     "conflict-files-obsidian-git.md",
     "Taller de Lenguajes II/MVC con ASP.md",
-    "Pasted image 20241030190753.png",
-    "Pasted image 20241030190733.png",
-    "Pasted image 20241030190657.png",
-    "Pasted image 20241030185752.png",
-    "Pasted image 20241030185711.png",
-    "Pasted image 20241030185640.png",
-    "Pasted image 20241030185621.png",
-    "Pasted image 20241030185318.png",
-    "Pasted image 20241030185112.png",
-    "Pasted image 20241030184918.png",
+    "Imágenes/Pasted image 20241030190733.png",
+    "Imágenes/Pasted image 20241030190657.png",
+    "Imágenes/Pasted image 20241030185752.png",
+    "Imágenes/Pasted image 20241030185711.png",
+    "Imágenes/Pasted image 20241030185640.png",
+    "Imágenes/Pasted image 20241030185621.png",
+    "Imágenes/Pasted image 20241030185318.png",
+    "Imágenes/Pasted image 20241030185112.png",
+    "Imágenes/Pasted image 20241030184918.png",
     "Paradigmas/Lección 6 Parte I.md",
     "Base de Datos I/29-10-2024 (SQL2).md",
     "Base de Datos I/22-10-2024 (SQL).md",
@@ -207,12 +213,10 @@
     "Algoritmos y Estructuras de Datos II",
     "L8.V1.Paradigma Funcional.pdf.md",
     "Taller de Lenguajes II/probando.c",
-    "Taller de Lenguajes II/S.O.L.I.D..md",
     "Taller de Lenguajes II/Probando.cs",
     "Paradigmas/TP1",
     "Paradigmas",
     "Paradigmas/Unidad 1.md",
-    "Excalidraw/Drawing 2024-08-23 14.38.23.excalidraw.md",
     "Imágenes",
     "Taller de Lenguajes II",
     "Sin título.canvas",
