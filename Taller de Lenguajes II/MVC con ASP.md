@@ -3,6 +3,11 @@ Comando para crear nuevo proyecto webAPI basado en controladores
 dotnet new mvc -n NombreProyecto
 ```
 
+Comando para no estar reiniciando la web:
+```
+dotnet watch
+```
+
 Para abrirlo:
 ```
 code -r NombreProyecto
