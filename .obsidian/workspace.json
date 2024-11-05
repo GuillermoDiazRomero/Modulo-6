@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algoritmos y Estructuras de Datos II/TP7.md",
+                "file": "Base de Datos I/05-11-2024 (SQL III).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TP7"
+              "title": "05-11-2024 (SQL III)"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmos y Estructuras de Datos II/TP7.md",
+                "file": "Base de Datos I/05-11-2024 (SQL III).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de TP7"
+              "title": "Enlaces entrantes de 05-11-2024 (SQL III)"
             }
           },
           {
@@ -159,7 +159,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,8 +176,9 @@
   },
   "active": "6b7db43180a621b7",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Algoritmos y Estructuras de Datos II/TP7.md",
+    "Base de Datos I/05-11-2024 (SQL III).md",
+    "conflict-files-obsidian-git.md",
     "Imágenes/Pasted image 20241105001120.png",
     "Taller de Lenguajes II/MVC con ASP.md",
     "Paradigmas/Lección 6 Parte II.md",
