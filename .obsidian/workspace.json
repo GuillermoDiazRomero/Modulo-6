@@ -93,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Algoritmos y Estructuras de Datos II/TP7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes"
+              "title": "Enlaces entrantes de TP7"
             }
           },
           {
@@ -172,10 +173,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "890abf6d7474d942",
+  "active": "6b7db43180a621b7",
   "lastOpenFiles": [
-    "Algoritmos y Estructuras de Datos II/TP7.md",
     "conflict-files-obsidian-git.md",
+    "Algoritmos y Estructuras de Datos II/TP7.md",
     "Imágenes/Pasted image 20241105001120.png",
     "Taller de Lenguajes II/MVC con ASP.md",
     "Paradigmas/Lección 6 Parte II.md",
