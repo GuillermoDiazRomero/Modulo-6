@@ -93,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmos y Estructuras de Datos II/TP7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de TP7"
+              "title": "Enlaces entrantes"
             }
           },
           {
@@ -173,11 +172,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6b7db43180a621b7",
+  "active": "890abf6d7474d942",
   "lastOpenFiles": [
-    "Pasted image 20241105001120.png",
-    "Taller de Lenguajes II/MVC con ASP.md",
+    "Algoritmos y Estructuras de Datos II/TP7.md",
     "conflict-files-obsidian-git.md",
+    "Imágenes/Pasted image 20241105001120.png",
+    "Taller de Lenguajes II/MVC con ASP.md",
     "Paradigmas/Lección 6 Parte II.md",
     "Imágenes/Pasted image 20241030175046.png",
     "Imágenes/Pasted image 20241101154320.png",
@@ -192,7 +192,6 @@
     "Base de Datos I/22-10-2024 (SQL).md",
     "Base de Datos I/29-10-2024 (SQL2).md",
     "Base de Datos I/Resumen Model.md",
-    "Algoritmos y Estructuras de Datos II/TP7.md",
     "Algoritmos y Estructuras de Datos II/TP6.md",
     "Paradigmas/Lección 5.md",
     "Algoritmos y Estructuras de Datos II/TP5.md",

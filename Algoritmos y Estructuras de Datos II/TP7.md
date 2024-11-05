@@ -158,6 +158,7 @@ int main() {
 ```
 
 
+
 ## Punto 3
 
 3. Se disponen números enteros positivos en un triángulo equilátero de base n como se muestra en el ejemplo de la figura. Se desea encontrar la suma mínima descendiendo desde el vértice superior del triángulo hasta su base a través de una secuencia de números adyacentes (indicados en la figura mediante círculos).
