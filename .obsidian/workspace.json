@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#excalidraw",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "aa732240f8fe415b",
@@ -172,11 +171,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "badb81e2aefafdf0",
+  "active": "890abf6d7474d942",
   "lastOpenFiles": [
+    "Imágenes/Pasted image 20240821173010.png",
+    "Imágenes/Pasted image 20241030190753.png",
+    "Algoritmos y Estructuras de Datos II/TP7.md",
     "Pasted image 20241105001120.png",
     "Taller de Lenguajes II/S.O.L.I.D..md",
-    "Imágenes/Pasted image 20241030190753.png",
     "conflict-files-obsidian-git.md",
     "Taller de Lenguajes II/MVC con ASP.md",
     "Imágenes/Pasted image 20241030190733.png",
@@ -187,11 +188,9 @@
     "Imágenes/Pasted image 20241030185621.png",
     "Imágenes/Pasted image 20241030185318.png",
     "Imágenes/Pasted image 20241030185112.png",
-    "Imágenes/Pasted image 20241030184918.png",
     "Paradigmas/Lección 6 Parte I.md",
     "Base de Datos I/29-10-2024 (SQL2).md",
     "Base de Datos I/22-10-2024 (SQL).md",
-    "Algoritmos y Estructuras de Datos II/TP7.md",
     "Algoritmos y Estructuras de Datos II/TP6.md",
     "Algoritmos y Estructuras de Datos II/TP5.md",
     "Taller de Lenguajes II/Para el parcial.md",
