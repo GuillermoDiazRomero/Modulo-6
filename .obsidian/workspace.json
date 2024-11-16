@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base de Datos I/05-11-2024 (SQL III).md",
+                "file": "Paradigmas/Lección 6 Parte II.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05-11-2024 (SQL III)"
+              "title": "Lección 6 Parte II"
+            }
+          },
+          {
+            "id": "20419eccf5df3721",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.6"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.6"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,13 +187,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6b7db43180a621b7",
+  "active": "20419eccf5df3721",
   "lastOpenFiles": [
-    "Algoritmos y Estructuras de Datos II/TP7.md",
+    "Paradigmas/Lección 6 Parte I.md",
+    "Paradigmas/Lección 5.md",
+    "Paradigmas/Lección 3.md",
+    "Paradigmas/Lección 4.md",
+    "Taller de Lenguajes II/MVC con ASP.md",
+    "Base de Datos I/29-10-2024 (SQL2).md",
+    "Base de Datos I/22-10-2024 (SQL).md",
     "Base de Datos I/05-11-2024 (SQL III).md",
+    "Algoritmos y Estructuras de Datos II/TP7.md",
     "conflict-files-obsidian-git.md",
     "Imágenes/Pasted image 20241105001120.png",
-    "Taller de Lenguajes II/MVC con ASP.md",
     "Paradigmas/Lección 6 Parte II.md",
     "Imágenes/Pasted image 20241030175046.png",
     "Imágenes/Pasted image 20241101154320.png",
@@ -192,19 +211,14 @@
     "Imágenes/Pasted image 20241030190657.png",
     "Imágenes/Pasted image 20241030185752.png",
     "Excalidraw/Drawing 2024-10-22 18.33.11.excalidraw.md",
-    "Base de Datos I/22-10-2024 (SQL).md",
-    "Base de Datos I/29-10-2024 (SQL2).md",
     "Base de Datos I/Resumen Model.md",
     "Algoritmos y Estructuras de Datos II/TP6.md",
-    "Paradigmas/Lección 5.md",
     "Algoritmos y Estructuras de Datos II/TP5.md",
-    "Paradigmas/Lección 6 Parte I.md",
     "Excalidraw",
     "Taller de Lenguajes II/S.O.L.I.D..md",
     "Base de Datos I",
     "Taller de Lenguajes II/Para el parcial.md",
     "Algoritmos y Estructuras de Datos II/TP4.md",
-    "Paradigmas/Lección 4.md",
     "Algoritmos y Estructuras de Datos II/Greedy.md",
     "Paradigmas/Lección 1.md",
     "Taller de Lenguajes II/probando.c",
@@ -212,7 +226,6 @@
     "Taller de Lenguajes II/POO (Programación Orientada a Objetos.md",
     "Paradigmas/TP1/Repuestas.md",
     "Paradigmas/TP1",
-    "Paradigmas/Lección 3.md",
     "Paradigmas/Lección 2.md",
     "Paradigmas",
     "Paradigmas/Unidad 1.md",
