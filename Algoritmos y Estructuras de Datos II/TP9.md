@@ -1,4 +1,4 @@
-# Ejercicio 1
+	# Ejercicio 1
 **a.** Probabilidad de caer dentro del círculo.  
 El área del círculo es πr2\pi r^2πr2, y el área del cuadrado es (2r)2=4r2(2r)^2 = 4r^2(2r)2=4r2.  
 Por lo tanto, la probabilidad de caer dentro del círculo es:
