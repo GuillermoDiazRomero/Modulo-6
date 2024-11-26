@@ -9,19 +9,19 @@
 3. **Implementación del Algoritmo**: Aquí se muestra el pseudocódigo del algoritmo:
 
 ```
-Función mochila_multiple(pesos, beneficios, capacidad)
+FUNCION mochila_multiple(pesos, beneficios, capacidad)
     Crear arreglo DP con tamaño (capacidad + 1), inicializado en 0
 
-    Para cada j desde 1 hasta capacidad hacer
-        Para cada i desde 0 hasta longitud(pesos) - 1 hacer
-            Si j >= pesos[i] entonces
-                DP[j] = máximo(DP[j], DP[j - pesos[i]] + beneficios[i])
-            Fin Si
-        Fin Para
-    Fin Para
+    PARA (j = 1 , ... , capacidad) HACER
+        PARA (i = 0, ... , (longitud(pesos) - 1) ) HACER
+            SI j >= pesos[i] ENTONCES
+                DP[j] = máximo( DP[j], DP[j - pesos[i]] + beneficios[i] )
+            FIN SI
+        FIN PARA
+    FIN PARA
 
-    Retornar DP[capacidad]
-Fin Función
+    RETORNO DP[capacidad]
+FIN FUNCION
 ```
 
 // Parámetros de entrada
@@ -34,7 +34,31 @@ beneficio_maximo = mochila_multiple(pesos, beneficios, capacidad)
 Imprimir "El beneficio máximo que se puede obtener es:", beneficio_maximo
 
 
-4. **Resultado**: Al ejecutar el algoritmo, se obtiene el beneficio máximo posible que puede alcanzarse con la mochila de capacidad 10.
+```
+FUNCION mochilaMultiple (i, peso, mochila[]) :   -->
+	//Globales
+	//n: cantidad de objetos
+	//M: peso máximo de la mochila
+	//b[]: vector con los beneficios de los objetos
+	//p[]: vector con los pesos de los objetos
+
+	//i viene inicializada en 0
+	//peso viene inicializado en 0
+
+	PARA (i = 1 , ... , n) HACER
+		PARA (j = 0, ... , M) HACER
+			SI (j = 0) ENTONCES
+				V(i,j) <-- 0
+			FIN SI
+			SI (i = 1) ENTONCES
+				V(i,j) <-- 
+			
+			
+```
+
+
+
+
 
 ---
 
