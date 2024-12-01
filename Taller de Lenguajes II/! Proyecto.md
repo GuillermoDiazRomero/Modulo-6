@@ -6,11 +6,14 @@
 	- Azul (En proceso).
 	- Rojo (Borrando).
 	- Amarillo (Revisión).
-- Agregar música de Linea Zero a la web (preferiblemente en bajo volumen).
+- Agregar música de Línea Zero a la web (preferiblemente en bajo volumen).
 - Agregar la posibilidad que el usuario agregue su playlist de youtube o spotify a su zona de trabajo (también que no suene música).
 - Agregar un botón/menú de preferencias (para establecer idioma, tema oscuro/claro, volumen de música, música, etc).
 - Agregar un botón/menú de cuenta (datos, cambiar datos, cambiar foto default).
 - Agregar un botón/menú para desloguearse.
+- Agregar login para usuarios
+- Opcion para agregar cuentas
+- Opcion para añadir personas segun su id o nombre de cuenta y asignarles roles especificos para el proyecto
 
 
 
