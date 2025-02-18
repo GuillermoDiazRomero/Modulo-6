@@ -25,3 +25,15 @@ El error era el siguiente:
 
 ---
 
+# Links de ayudas/cosas del proyecto
+Paleta de colores:
+https://coolors.co/palette/ffbe0b-fb5607-ff006e-8338ec-3a86ff
+Iconos:
+https://react-icons.github.io/react-icons/
+Login:
+https://www.youtube.com/watch?v=kghwFYOJiNg
+
+Hash de contraseñas:
+```
+dotnet add package BCrypt.Net-Next
+```
