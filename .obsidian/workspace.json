@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e2e233590fdeb369",
+        "id": "85044e7b7e71285a",
         "type": "tabs",
         "children": [
           {
-            "id": "20419eccf5df3721",
+            "id": "d5525b3af56adc7e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "Algoritmos y Estructuras de Datos II/TP9.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TP9"
             }
           }
         ]
@@ -170,7 +174,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "20419eccf5df3721",
+  "active": "d5525b3af56adc7e",
   "lastOpenFiles": [
     "Taller de Lenguajes II/Proyecto TIPS.md",
     "Pasted image 20241122114447.png",
