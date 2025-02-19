@@ -4,43 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "3619f2ad40ee5a31",
-        "type": "tabs",
-        "dimension": 66.52452025586354,
-        "children": [
-          {
-            "id": "c7b032881b257829",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Taller de Lenguajes II/S.O.L.I.D..md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "S.O.L.I.D."
-            }
-          },
-          {
-            "id": "fc28f63b0b076fde",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Base de Datos I/TP2.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "TP2"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "7092abc1a96bedcf",
         "type": "tabs",
-        "dimension": 33.47547974413646,
         "children": [
           {
             "id": "1a4c0fab2aaf17e9",
@@ -48,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base de Datos I/TP1.md",
+                "file": "Algoritmos y Estructuras de Datos II/TP5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TP1"
+              "title": "TP5"
             }
           }
         ]
@@ -88,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:\"Base de Datos I\"  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "aa732240f8fe415b",
@@ -209,11 +173,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "fc28f63b0b076fde",
+  "active": "1a4c0fab2aaf17e9",
   "lastOpenFiles": [
+    "Algoritmos y Estructuras de Datos II/TP4.md",
+    "Base de Datos I/05-11-2024 (SQL III).md",
+    "Sin título 1.canvas",
+    "Sin título.canvas",
     "Base de Datos I/TP1.md",
-    "Base de Datos I/TP2.md",
     "Taller de Lenguajes II/S.O.L.I.D..md",
+    "Base de Datos I/TP2.md",
     "Excalidraw",
     "Taller de Lenguajes II/Kanban.md",
     "Base de Datos I/Sin título.canvas",
@@ -238,7 +206,6 @@
     "conflict-files-obsidian-git.md",
     "Paradigmas/Lección 6 Parte I.md",
     "Excalidraw/Drawing 2024-11-19 11.00.28.excalidraw.md",
-    "Base de Datos I/05-11-2024 (SQL III).md",
     "Paradigmas/Lección 5.md",
     "Paradigmas/Lección 6 Parte II.md",
     "Taller de Lenguajes II/MVC con ASP.md",
@@ -249,7 +216,6 @@
     "Excalidraw/Drawing 2024-10-22 18.33.11.excalidraw.md",
     "Base de Datos I/22-10-240 (SQL).md",
     "Base de Datos I",
-    "Algoritmos y Estructuras de Datos II/Greedy.md",
     "Sin nombre",
     "Algoritmos y Estructuras de Datos II",
     "Taller de Lenguajes II/probando.c",
@@ -257,8 +223,6 @@
     "Paradigmas/TP1",
     "Paradigmas",
     "Imágenes",
-    "Taller de Lenguajes II",
-    "Sin título.canvas",
-    "Sin título 1.canvas"
+    "Taller de Lenguajes II"
   ]
 }
