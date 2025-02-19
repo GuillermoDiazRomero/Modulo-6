@@ -8,17 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d5525b3af56adc7e",
+            "id": "2d0b69357d50eb07",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Algoritmos y Estructuras de Datos II/TP9.md",
-                "mode": "source",
-                "source": false
+                "file": "Base de Datos I/Repaso Parcial.md"
               },
-              "icon": "lucide-file",
-              "title": "TP9"
+              "icon": "excalidraw-icon",
+              "title": "Repaso Parcial"
             }
           }
         ]
@@ -77,7 +75,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "aa732240f8fe415b",
@@ -174,10 +173,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d5525b3af56adc7e",
+  "active": "2d0b69357d50eb07",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Algoritmos y Estructuras de Datos II/TP9.md",
+    "Base de Datos I/Repaso Parcial.md",
+    "Excalidraw",
+    "Base de Datos I/Repaso parcial.md",
+    "conflict-files-obsidian-git.md",
     "Taller de Lenguajes II/Kanban.md",
     "Taller de Lenguajes II/! Proyecto.md",
     "Imágenes/Pasted image 20241203133253.png",
@@ -197,7 +199,6 @@
     "Algoritmos y Estructuras de Datos II/TP10.md",
     "Excalidraw/Drawing 2024-11-19 11.00.28.excalidraw.md",
     "TP10.md",
-    "Excalidraw",
     "Paradigmas/Lección 6 Parte I.md",
     "Paradigmas/Lección 5.md",
     "Paradigmas/Lección 3.md",
@@ -211,8 +212,6 @@
     "Excalidraw/Drawing 2024-10-22 18.33.11.excalidraw.md",
     "Base de Datos I/Resumen Model.md",
     "Algoritmos y Estructuras de Datos II/TP6.md",
-    "Algoritmos y Estructuras de Datos II/TP5.md",
-    "Taller de Lenguajes II/S.O.L.I.D..md",
     "Base de Datos I",
     "Taller de Lenguajes II/probando.c",
     "Taller de Lenguajes II/Probando.cs",
