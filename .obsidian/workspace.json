@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7092abc1a96bedcf",
+        "id": "936145a41418b211",
         "type": "tabs",
         "children": [
           {
-            "id": "1a4c0fab2aaf17e9",
+            "id": "d728062582273dda",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algoritmos y Estructuras de Datos II/TP5.md",
+                "file": "Base de Datos I/Quizz/Clase 11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TP5"
+              "title": "Clase 11"
             }
           }
         ]
@@ -173,37 +173,40 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1a4c0fab2aaf17e9",
+  "active": "d728062582273dda",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Algoritmos y Estructuras de Datos II/TP5.md",
-    "Base de Datos I/Repaso Parcial.md",
-    "Algoritmos y Estructuras de Datos II/TP4.md",
+    "Base de Datos I/Quizz/Clase 4.md",
+    "Base de Datos I/Quizz/Clase 11.md",
+    "Pasted image 20250305042410.png",
+    "Pasted image 20250305042314.png",
+    "Pasted image 20250305042154.png",
+    "Pasted image 20250305041958.png",
+    "Pasted image 20250305041846.png",
+    "Pasted image 20250305041654.png",
+    "Pasted image 20250305040350.png",
+    "Pasted image 20250305040312.png",
+    "Pasted image 20250305040208.png",
+    "Pasted image 20250305040102.png",
     "Base de Datos I/05-11-2024 (SQL III).md",
-    "Sin título 1.canvas",
+    "Base de Datos I/Quizz",
+    "Taller de Lenguajes II/! Proyecto.md",
+    "Base de Datos I/Repaso Parcial.md",
+    "Base de Datos I/Repaso parcial puntos.md",
     "Sin título.canvas",
-    "Base de Datos I/TP1.md",
-    "Taller de Lenguajes II/S.O.L.I.D..md",
     "Base de Datos I/TP2.md",
+    "Base de Datos I/TP1.md",
+    "Algoritmos y Estructuras de Datos II/TP5.md",
+    "conflict-files-obsidian-git.md",
+    "Algoritmos y Estructuras de Datos II/TP4.md",
+    "Sin título 1.canvas",
+    "Taller de Lenguajes II/S.O.L.I.D..md",
     "Excalidraw",
     "Taller de Lenguajes II/Kanban.md",
     "Base de Datos I/Sin título.canvas",
-    "Base de Datos I/Sin título.md",
-    "Taller de Lenguajes II/! Proyecto.md",
     "Algoritmos y Estructuras de Datos II/TP6.md",
     "Algoritmos y Estructuras de Datos II/Recuperación quizz.md",
-    "Imágenes/Imagen de WhatsApp 2024-12-03 a las 13.31.55_66d58f72.jpg",
-    "Imágenes/Imagen de WhatsApp 2024-12-03 a las 13.31.55_84165827.jpg",
-    "Imágenes/Imagen de WhatsApp 2024-12-03 a las 13.31.55_f1909126.jpg",
-    "Imágenes/Pasted image 20241203133253.png",
-    "Imágenes/Pasted image 20241203133245.png",
-    "Imágenes/Pasted image 20241203133223.png",
-    "Imágenes/Pasted image 20241203133214.png",
-    "Imágenes/Pasted image 20241203133200.png",
     "Algoritmos y Estructuras de Datos II/TP10.md",
     "Algoritmos y Estructuras de Datos II/TP9.md",
-    "Imágenes/Pasted image 20241122114447.png",
-    "Imágenes/Pasted image 20241122114325.png",
     "Algoritmos y Estructuras de Datos II/TP7.md",
     "Paradigmas/Lección 6 Parte I.md",
     "Excalidraw/Drawing 2024-11-19 11.00.28.excalidraw.md",
@@ -212,9 +215,6 @@
     "Taller de Lenguajes II/MVC con ASP.md",
     "Base de Datos I/29-10-2024 (SQL2).md",
     "Base de Datos I/22-10-2024 (SQL).md",
-    "Taller de Lenguajes II/Para el parcial.md",
-    "Lección 6 Parte I.md",
-    "Excalidraw/Drawing 2024-10-22 18.33.11.excalidraw.md",
     "Base de Datos I",
     "Sin nombre",
     "Algoritmos y Estructuras de Datos II",
@@ -222,7 +222,6 @@
     "Taller de Lenguajes II/Probando.cs",
     "Paradigmas/TP1",
     "Paradigmas",
-    "Imágenes",
-    "Taller de Lenguajes II"
+    "Imágenes"
   ]
 }
