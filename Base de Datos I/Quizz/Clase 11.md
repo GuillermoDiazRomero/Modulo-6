@@ -1,7 +1,3 @@
-Hablar con JESUS sobre el quizz 5 ya que tengo:
-- puntaje 0:  p8 (tengo 1 respuesta bien y 1 mal)
-- puntaje -1:  p9 y p11
-
 # Sub consultas
 Son consultas anidadas dentro de otra consulta principal. Estas subconsultas permiten realizar operaciones avanzadas como filtros, cálculos y comparaciones basadas en otros datos.
 

@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d728062582273dda",
+            "id": "3bdb7a5d7d03664c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "aa732240f8fe415b",
@@ -173,20 +174,20 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d728062582273dda",
+  "active": "3bdb7a5d7d03664c",
   "lastOpenFiles": [
     "Base de Datos I/Quizz/Clase 4.md",
     "Base de Datos I/Quizz/Clase 11.md",
-    "Pasted image 20250305042410.png",
-    "Pasted image 20250305042314.png",
-    "Pasted image 20250305042154.png",
-    "Pasted image 20250305041958.png",
-    "Pasted image 20250305041846.png",
-    "Pasted image 20250305041654.png",
-    "Pasted image 20250305040350.png",
-    "Pasted image 20250305040312.png",
-    "Pasted image 20250305040208.png",
-    "Pasted image 20250305040102.png",
+    "Imágenes/Pasted image 20250305033728.png",
+    "Imágenes/Pasted image 20250305042410.png",
+    "Imágenes/Pasted image 20250305042314.png",
+    "Imágenes/Pasted image 20250305042154.png",
+    "Imágenes/Pasted image 20250305041958.png",
+    "Imágenes/Pasted image 20250305041846.png",
+    "Imágenes/Pasted image 20250305041654.png",
+    "Imágenes/Pasted image 20250305040350.png",
+    "Imágenes/Pasted image 20250305040312.png",
+    "Imágenes/Pasted image 20250305040208.png",
     "Base de Datos I/05-11-2024 (SQL III).md",
     "Base de Datos I/Quizz",
     "Taller de Lenguajes II/! Proyecto.md",
